@@ -8,6 +8,22 @@
 [![VGT](https://img.shields.io/badge/VGT-VisionGaia_Technology-red?style=for-the-badge)](https://visiongaiatechnology.de)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://www.paypal.com/paypalme/dergoldenelotus)
 
+
+
+## ⚠️ DISCLAIMER: EXPERIMENTAL R&D PROJECT
+
+This project is a **Proof of Concept (PoC)** and part of ongoing research and development at
+VisionGaia Technology. It is **not** a certified or production-ready product.
+
+**Use at your own risk.** The software may contain security vulnerabilities, bugs, or
+unexpected behavior. It may break your environment if misconfigured or used improperly.
+
+**Do not deploy in critical production environments** unless you have thoroughly audited
+the code and understand the implications. For enterprise-grade, verified protection,
+we recommend established and officially certified solutions.
+
+Found a vulnerability or have an improvement? **Open an issue or contact us.**
+
 > *"Make your Windows invisible to state actors, APTs, and the darknet."*
 
 **VGT Windows Firewall Burner** injects over **280,000 verified threat IPs** — Tor exit nodes, APT command-and-control servers, and state-actor infrastructure — directly into the native Windows Firewall. No third-party software. No background services. Pure Windows kernel-level blocking.
